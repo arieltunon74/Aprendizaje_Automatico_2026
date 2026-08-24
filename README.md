@@ -47,7 +47,7 @@ Actualmente estoy fortaleciendo mis conocimientos en **Python, Machine Learning,
 
 ## PROYECTO
 
-Proyecto de **Data Science y Machine Learning** utilizando datasets relacionados con avistamientos de objetos voladores no identificados.
+Proyecto de **Data Science y Machine Learning** utilizando datasets relacionados.
 
 ### 🔎 Objetivo
 
