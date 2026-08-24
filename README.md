@@ -1,8 +1,8 @@
 # Ariel Tuñon
 
-## Aprndizaje automático
+## APRENDIZAJE AUTOMÁTICO
 
-🐍 Python · 🤖 Machine Learning · 🗄️ SQL · 📊 Power BI · 📈 Data Analytics
+🐍 Python · 🤖 Machine Learning · 🗄️ SQL · 📈 Data Analytics
 
 ---
 
