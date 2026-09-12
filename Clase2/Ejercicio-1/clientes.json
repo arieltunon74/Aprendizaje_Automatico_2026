@@ -1,0 +1,212 @@
+[
+  {
+    "id_cliente": "C102",
+    "nombre_completo": "Juan Pérez",
+    "contacto": {
+      "email": "juan.perez@example.com",
+      "telefono": "+54 9 281 9226-6191"
+    },
+    "ubicacion": {
+      "ciudad": "Salta",
+      "pais": "Argentina"
+    },
+    "segmento": "Corporativo",
+    "fecha_registro": "2025-05-07"
+  },
+  {
+    "id_cliente": "C205",
+    "nombre_completo": "María González",
+    "contacto": {
+      "email": "maria.gonzalez@example.com",
+      "telefono": "+54 9 341 9578-9322"
+    },
+    "ubicacion": {
+      "ciudad": "Córdoba",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-06-21"
+  },
+  {
+    "id_cliente": "C118",
+    "nombre_completo": "Carlos Rodríguez",
+    "contacto": {
+      "email": "carlos.rodriguez@example.com",
+      "telefono": "+54 9 304 6433-6311"
+    },
+    "ubicacion": {
+      "ciudad": "Córdoba",
+      "pais": "Argentina"
+    },
+    "segmento": "Corporativo",
+    "fecha_registro": "2025-12-21"
+  },
+  {
+    "id_cliente": "C341",
+    "nombre_completo": "Ana Martínez",
+    "contacto": {
+      "email": "ana.martinez@example.com",
+      "telefono": "+54 9 32 8843-9666"
+    },
+    "ubicacion": {
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-11-10"
+  },
+  {
+    "id_cliente": "C089",
+    "nombre_completo": "Lucas Fernández",
+    "contacto": {
+      "email": "lucas.fernandez@example.com",
+      "telefono": "+54 9 281 4189-3734"
+    },
+    "ubicacion": {
+      "ciudad": "Mendoza",
+      "pais": "Argentina"
+    },
+    "segmento": "Pyme",
+    "fecha_registro": "2025-03-12"
+  },
+  {
+    "id_cliente": "C512",
+    "nombre_completo": "Sofía López",
+    "contacto": {
+      "email": "sofia.lopez@example.com",
+      "telefono": "+54 9 141 7556-4890"
+    },
+    "ubicacion": {
+      "ciudad": "Salta",
+      "pais": "Argentina"
+    },
+    "segmento": "Pyme",
+    "fecha_registro": "2025-07-21"
+  },
+  {
+    "id_cliente": "C401",
+    "nombre_completo": "Diego Gómez",
+    "contacto": {
+      "email": "diego.gomez@example.com",
+      "telefono": "+54 9 99 6363-9433"
+    },
+    "ubicacion": {
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-10-09"
+  },
+  {
+    "id_cliente": "C220",
+    "nombre_completo": "Laura Díaz",
+    "contacto": {
+      "email": "laura.diaz@example.com",
+      "telefono": "+54 9 350 9486-8099"
+    },
+    "ubicacion": {
+      "ciudad": "Córdoba",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-07-12"
+  },
+  {
+    "id_cliente": "C110",
+    "nombre_completo": "Gabriel Romero",
+    "contacto": {
+      "email": "gabriel.romero@example.com",
+      "telefono": "+54 9 45 7152-2585"
+    },
+    "ubicacion": {
+      "ciudad": "Río Grande",
+      "pais": "Argentina"
+    },
+    "segmento": "Corporativo",
+    "fecha_registro": "2025-08-04"
+  },
+  {
+    "id_cliente": "C150",
+    "nombre_completo": "Valentina Silva",
+    "contacto": {
+      "email": "valentina.silva@example.com",
+      "telefono": "+54 9 64 9225-4843"
+    },
+    "ubicacion": {
+      "ciudad": "Córdoba",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-06-18"
+  },
+  {
+    "id_cliente": "C210",
+    "nombre_completo": "Matías Torres",
+    "contacto": {
+      "email": "matias.torres@example.com",
+      "telefono": "+54 9 212 5981-1995"
+    },
+    "ubicacion": {
+      "ciudad": "Córdoba",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-08-14"
+  },
+  {
+    "id_cliente": "C305",
+    "nombre_completo": "Camila Navarro",
+    "contacto": {
+      "email": "camila.navarro@example.com",
+      "telefono": "+54 9 200 4337-1878"
+    },
+    "ubicacion": {
+      "ciudad": "Salta",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-05-24"
+  },
+  {
+    "id_cliente": "C412",
+    "nombre_completo": "Joaquín Benítez",
+    "contacto": {
+      "email": "joaquin.benitez@example.com",
+      "telefono": "+54 9 198 4379-9684"
+    },
+    "ubicacion": {
+      "ciudad": "Córdoba",
+      "pais": "Argentina"
+    },
+    "segmento": "Pyme",
+    "fecha_registro": "2025-09-15"
+  },
+  {
+    "id_cliente": "C530",
+    "nombre_completo": "Lucía Acosta",
+    "contacto": {
+      "email": "lucia.acosta@example.com",
+      "telefono": "+54 9 337 6568-6463"
+    },
+    "ubicacion": {
+      "ciudad": "Río Grande",
+      "pais": "Argentina"
+    },
+    "segmento": "Consumidor",
+    "fecha_registro": "2025-01-12"
+  },
+  {
+    "id_cliente": "C601",
+    "nombre_completo": "Martín Molina",
+    "contacto": {
+      "email": "martin.molina@example.com",
+      "telefono": "+54 9 91 4391-6892"
+    },
+    "ubicacion": {
+      "ciudad": "Salta",
+      "pais": "Argentina"
+    },
+    "segmento": "Corporativo",
+    "fecha_registro": "2025-10-07"
+  }
+]
