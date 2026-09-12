@@ -1,0 +1,31 @@
+id_venta,fecha,producto,categoria,precio_unitario,costo_unitario,cantidad,descuento,id_cliente,ciudad,metodo_pago,estado_envio
+V001,2026-08-01,Mouse Inalámbrico,Computación,25.0,12.0,4,0.2,C370,Rosario,Mercado Pago,Entregado
+V002,2026-08-02,Barra de Sonido,Audio,130.0,85.0,3,0.1,C558,Río Grande,Efectivo,Entregado
+V003,2026-08-03,Teclado Mecánico,Computación,65.5,38.0,5,0.05,C443,Mendoza,Tarjeta de Débito,Entregado
+V004,2026-08-04,Silla Gamer,Mobiliario,180.0,110.0,1,0.15,C413,Tucumán,Mercado Pago,Entregado
+V005,2026-08-05,"Televisor 55""",Electrónica,450.0,310.0,3,0.1,C610,Córdoba,Efectivo,Cancelado
+V006,2026-08-06,Parlante Portátil,Audio,75.0,42.0,3,0.15,C666,Mendoza,Tarjeta de Crédito,Entregado
+V007,2026-08-07,Teclado Mecánico,Computación,65.5,38.0,5,0.0,C266,Córdoba,Efectivo,Pendiente
+V008,2026-08-08,Escritorio Elevable,Mobiliario,320.0,210.0,2,0.05,C876,Córdoba,Mercado Pago,Entregado
+V009,2026-08-09,Webcam Full HD,Computación,55.0,30.0,4,0.15,C608,Salta,Transferencia,Pendiente
+V010,2026-08-10,"Monitor 27""",Computación,210.0,145.0,2,0.15,C101,Tucumán,Tarjeta de Débito,Entregado
+V011,2026-08-11,Disco SSD 1TB,Computación,85.0,52.0,2,0.05,C655,Córdoba,Tarjeta de Débito,Pendiente
+V012,2026-08-12,Escritorio Elevable,Mobiliario,320.0,210.0,4,0.0,C801,Río Grande,Mercado Pago,Entregado
+V013,2026-08-13,Silla Gamer,Mobiliario,180.0,110.0,2,0.0,C863,Mendoza,Efectivo,Entregado
+V014,2026-08-14,Disco SSD 1TB,Computación,85.0,52.0,5,0.0,C956,Salta,Tarjeta de Crédito,En tránsito
+V015,2026-08-15,Webcam Full HD,Computación,55.0,30.0,3,0.1,C692,Rosario,Transferencia,En tránsito
+V016,2026-08-16,Silla Gamer,Mobiliario,180.0,110.0,2,0.05,C140,Mendoza,Tarjeta de Crédito,En tránsito
+V017,2026-08-17,"Televisor 65""",Electrónica,720.0,500.0,1,0.2,C198,Mendoza,Transferencia,Entregado
+V018,2026-08-18,Teclado Mecánico,Computación,65.5,38.0,5,0.1,C868,Río Grande,Tarjeta de Débito,Entregado
+V019,2026-08-19,Escritorio Elevable,Mobiliario,320.0,210.0,3,0.0,C306,Salta,Tarjeta de Débito,Entregado
+V020,2026-08-20,Disco SSD 1TB,Computación,85.0,52.0,3,0.0,C663,Río Grande,Efectivo,Pendiente
+V021,2026-08-21,Mouse Inalámbrico,Computación,25.0,12.0,5,0.1,C640,Mendoza,Mercado Pago,Entregado
+V022,2026-08-22,Smartwatch Sport,Electrónica,110.0,68.0,3,0.15,C677,Córdoba,Mercado Pago,Entregado
+V023,2026-08-23,Silla Gamer,Mobiliario,180.0,110.0,4,0.15,C719,Mendoza,Efectivo,Pendiente
+V024,2026-08-24,Smartwatch Sport,Electrónica,110.0,68.0,2,0.15,C572,Salta,Tarjeta de Crédito,Entregado
+V025,2026-08-25,Smartwatch Sport,Electrónica,110.0,68.0,1,0.15,C844,Rosario,Transferencia,Entregado
+V026,2026-08-26,Silla Gamer,Mobiliario,180.0,110.0,1,0.1,C333,Mendoza,Transferencia,Entregado
+V027,2026-08-27,Cable HDMI 2.1,Accesorios,12.5,4.5,1,0.15,C212,Tucumán,Tarjeta de Crédito,Entregado
+V028,2026-08-28,Webcam Full HD,Computación,55.0,30.0,2,0.1,C212,Río Grande,Tarjeta de Crédito,Cancelado
+V029,2026-08-29,Smartwatch Sport,Electrónica,110.0,68.0,1,0.05,C741,Mendoza,Mercado Pago,Entregado
+V030,2026-08-30,"Televisor 55""",Electrónica,450.0,310.0,3,0.05,C152,Mendoza,Tarjeta de Débito,Cancelado
