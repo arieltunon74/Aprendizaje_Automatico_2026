@@ -73,4 +73,6 @@ Ejecutar el cuaderno Jupyter de manera secuencial:
 ---
 
 ## Conclusión
-El enfoque de aprendizaje no supervisado validó de forma empírica la hipótesis del negocio sin requerir etiquetas previas, proporcionando al equipo de marketing una estructura clara para el diseño de campañas personalizadas.
+K-Means permite identificar grupos o segmentos de clientes sin necesidad de etiquetas previas.
+Los resultados pueden aportar evidencia que respalde una hipótesis del negocio, como la qu tenia el jefe de ventas. pero no necesariamente la demuestran.
+La utilidad de los segmentos para diseñar campañas personalizadas debe evaluarse mediante análisis adicionales o pruebas comerciales.
